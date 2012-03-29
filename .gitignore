@@ -1,0 +1,6 @@
+.DS_Store
+data
+deps
+ebin
+*.dump
+log
